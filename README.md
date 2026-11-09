@@ -1,2 +1,14 @@
 # tic-llm-benchmark
-TIC行业大模型垂直评测基准（建设中）｜检测报告审核能力真题实测｜Testing/Inspection/Certification vertical benchmark for LLM report-audit capabilities
+
+检测认证（TIC）行业大模型垂直评测基准。
+
+**目标**：用200道检测报告审核真题，实测主流大模型在本行业的真实能力边界。
+
+**状态**：建设中 🚧（2026年X月启动，预计14周发布首版报告）
+
+**结构**：
+- `dataset/` — 评测题目（A术语/B条款/C审核/D综合 四类）
+- `docs/` — 评测方法与判卷标准
+- `results/` — 各模型实测得分（发布时更新）
+
+*作者：20年TIC行业从业者，匿名建设中。*
